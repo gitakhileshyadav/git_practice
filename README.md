@@ -1,6 +1,3 @@
-### Practising git code
-Certainly! Let's break down the HTML, CSS (Tailwind), and JavaScript code in your ATS (Applicant Tracking System) Resume Scorer tool.
-
 ### **HTML Structure**
 
 The HTML code defines the structure of your web page. Here's an overview of each section:
